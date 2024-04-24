@@ -8,7 +8,7 @@ namespace InvoiceMe
 {
     static class Program
     {
-        /// <summary 12>
+        /// <summary 123>
         /// The main entry point for the application.
         /// </summary 1>
         [STAThread]
