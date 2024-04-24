@@ -10,7 +10,7 @@ namespace InvoiceMe
     {
         /// <summary 12378>
         /// The main entry point for the application.
-        /// </summary 134>
+        /// </summary 1347>
         [STAThread]
         static void Main()
         {
